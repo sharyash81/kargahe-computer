@@ -1,2 +1,3 @@
 salam
 kargahe computer
+thank for helping us learning git 
